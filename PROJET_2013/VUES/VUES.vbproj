@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{026D0A37-8FF4-4638-BBFD-A7780EB20D40}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VUES.My.MyApplication</StartupObject>
+    <RootNamespace>VUES</RootNamespace>
+    <AssemblyName>VUES</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VUES.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VUES.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>TEC2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BUYINGHOUSEDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BUYINGHOUSEDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\CONNEXION.Designer.vb">
+      <DependentUpon>CONNEXION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\CONNEXION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\COTATION.Designer.vb">
+      <DependentUpon>COTATION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\COTATION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\COTCO2.Designer.vb">
+      <DependentUpon>COTCO2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\COTCO2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\demarrage.Designer.vb">
+      <DependentUpon>demarrage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\demarrage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACCOTCO.Designer.vb">
+      <DependentUpon>FACCOTCO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACCOTCO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTURE2.Designer.vb">
+      <DependentUpon>FACTURE2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTURE2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTUREF.Designer.vb">
+      <DependentUpon>FACTUREF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTUREF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTURECLI.Designer.vb">
+      <DependentUpon>FACTURECLI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTURECLI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTURETEC.Designer.vb">
+      <DependentUpon>FACTURETEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\FACTURETEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\liste.Designer.vb">
+      <DependentUpon>liste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\liste.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\LIVRAISONTEC.Designer.vb">
+      <DependentUpon>LIVRAISONTEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\LIVRAISONTEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\LIVTEC.Designer.vb">
+      <DependentUpon>LIVTEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\LIVTEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\PRINCIPAL.Designer.vb">
+      <DependentUpon>PRINCIPAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\PRINCIPAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\PROFAC.Designer.vb">
+      <DependentUpon>PROFAC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\PROFAC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\PROFORMER.Designer.vb">
+      <DependentUpon>PROFORMER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\PROFORMER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\presence.Designer.vb">
+      <DependentUpon>presence.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\presence.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULAIRES\Resources.vb" />
+    <Compile Include="FORMULAIRES\TECCOMMANDE.Designer.vb">
+      <DependentUpon>TECCOMMANDE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULAIRES\TECCOMMANDE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODULES\ModulConexion.vb" />
+    <Compile Include="MODULES\Modulgen.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCAcceuil.Designer.vb">
+      <DependentUpon>UCAcceuil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCAcceuil.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCAutres.Designer.vb">
+      <DependentUpon>UCAutres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCAutres.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCclient.Designer.vb">
+      <DependentUpon>UCclient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCclient.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCCommande.Designer.vb">
+      <DependentUpon>UCCommande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCCommande.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCcompte.Designer.vb">
+      <DependentUpon>UCcompte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCcompte.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCCorbeille.Designer.vb">
+      <DependentUpon>UCCorbeille.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCCorbeille.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCCotation.Designer.vb">
+      <DependentUpon>UCCotation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCCotation.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCEmploye.Designer.vb">
+      <DependentUpon>UCEmploye.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCEmploye.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCFacturef.Designer.vb">
+      <DependentUpon>UCFacturef.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCFacturef.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCFacturetec.Designer.vb">
+      <DependentUpon>UCFacturetec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCFacturetec.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCFournisseur.Designer.vb">
+      <DependentUpon>UCFournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCFournisseur.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCITEMS.Designer.vb">
+      <DependentUpon>UCITEMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCITEMS.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCLivraisontec.Designer.vb">
+      <DependentUpon>UCLivraisontec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCLivraisontec.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UClivrerf.Designer.vb">
+      <DependentUpon>UClivrerf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UClivrerf.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCPo.Designer.vb">
+      <DependentUpon>UCPo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCPo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCProforma.Designer.vb">
+      <DependentUpon>UCProforma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCProforma.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCProjet.Designer.vb">
+      <DependentUpon>UCProjet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USERCONTROLLERS\UCProjet.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FORMULAIRES\CONNEXION.resx">
+      <DependentUpon>CONNEXION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\COTATION.resx">
+      <DependentUpon>COTATION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\COTCO2.resx">
+      <DependentUpon>COTCO2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\demarrage.resx">
+      <DependentUpon>demarrage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\FACCOTCO.resx">
+      <DependentUpon>FACCOTCO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\FACTURE2.resx">
+      <DependentUpon>FACTURE2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\FACTUREF.resx">
+      <DependentUpon>FACTUREF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\FACTURECLI.resx">
+      <DependentUpon>FACTURECLI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\FACTURETEC.resx">
+      <DependentUpon>FACTURETEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\liste.resx">
+      <DependentUpon>liste.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\LIVRAISONTEC.resx">
+      <DependentUpon>LIVRAISONTEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\LIVTEC.resx">
+      <DependentUpon>LIVTEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\PRINCIPAL.resx">
+      <DependentUpon>PRINCIPAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\PROFAC.resx">
+      <DependentUpon>PROFAC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\PROFORMER.resx">
+      <DependentUpon>PROFORMER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\presence.resx">
+      <DependentUpon>presence.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULAIRES\TECCOMMANDE.resx">
+      <DependentUpon>TECCOMMANDE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RAPPORTS\blivraison.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\commandee.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\cotation.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\cotcocote2.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\fact2.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\facturcotco.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\facturec.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\listeemploye.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\Presence.rdlc" />
+    <EmbeddedResource Include="RAPPORTS\profac.rdlc" />
+    <EmbeddedResource Include="USERCONTROLLERS\UCAcceuil.resx">
+      <DependentUpon>UCAcceuil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCAutres.resx">
+      <DependentUpon>UCAutres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCclient.resx">
+      <DependentUpon>UCclient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCCommande.resx">
+      <DependentUpon>UCCommande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCcompte.resx">
+      <DependentUpon>UCcompte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCCorbeille.resx">
+      <DependentUpon>UCCorbeille.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCCotation.resx">
+      <DependentUpon>UCCotation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCEmploye.resx">
+      <DependentUpon>UCEmploye.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCFacturef.resx">
+      <DependentUpon>UCFacturef.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCFacturetec.resx">
+      <DependentUpon>UCFacturetec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCFournisseur.resx">
+      <DependentUpon>UCFournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCITEMS.resx">
+      <DependentUpon>UCITEMS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCLivraisontec.resx">
+      <DependentUpon>UCLivraisontec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UClivrerf.resx">
+      <DependentUpon>UClivrerf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCPo.resx">
+      <DependentUpon>UCPo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCProforma.resx">
+      <DependentUpon>UCProforma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERCONTROLLERS\UCProjet.resx">
+      <DependentUpon>UCProjet.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="BUYINGHOUSEDataSet1.xsc">
+      <DependentUpon>BUYINGHOUSEDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BUYINGHOUSEDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BUYINGHOUSEDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BUYINGHOUSEDataSet1.xss">
+      <DependentUpon>BUYINGHOUSEDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TEC2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fond.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connexion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_229.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_035.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_253.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\decrypted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acceuil.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supprimer33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_count3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-32-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-32-remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enreg3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\annuler3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Research2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CONTROLLEUR\CONTROLLEUR.vbproj">
+      <Project>{E32B7340-3000-4D9D-AA41-272FE614F5F0}</Project>
+      <Name>CONTROLLEUR</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employe2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employe3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgTec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BASEDONNEE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

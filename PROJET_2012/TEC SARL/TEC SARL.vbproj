@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{285FC9E1-0B88-4F7C-A683-81678AB38F9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TEC_SARL.My.MyApplication</StartupObject>
+    <RootNamespace>TEC_SARL</RootNamespace>
+    <AssemblyName>TEC SARL</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TEC SARL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TEC SARL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACCEUIL.Designer.vb">
+      <DependentUpon>ACCEUIL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACCEUIL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACHAT.Designer.vb">
+      <DependentUpon>ACHAT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACHAT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ARCHIVE CLIENT.Designer.vb">
+      <DependentUpon>ARCHIVE CLIENT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ARCHIVE CLIENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARCHIVE PRO FORMA.Designer.vb">
+      <DependentUpon>ARCHIVE PRO FORMA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ARCHIVE PRO FORMA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARCHIVES FOURNISSEUR.Designer.vb">
+      <DependentUpon>ARCHIVES FOURNISSEUR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ARCHIVES FOURNISSEUR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARCHIVES PERSONNEL.Designer.vb">
+      <DependentUpon>ARCHIVES PERSONNEL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ARCHIVES PERSONNEL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ATTENTE.Designer.vb">
+      <DependentUpon>ATTENTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ATTENTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLIENT.Designer.vb">
+      <DependentUpon>CLIENT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CLIENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMMANDE COTCO.Designer.vb">
+      <DependentUpon>COMMANDE COTCO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMMANDE COTCO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMMANDE TEC.Designer.vb">
+      <DependentUpon>COMMANDE TEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMMANDE TEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMTEC.Designer.vb">
+      <DependentUpon>COMTEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMTEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMTECE.Designer.vb">
+      <DependentUpon>COMTECE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMTECE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIRMEE.Designer.vb">
+      <DependentUpon>CONFIRMEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIRMEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIRMER.Designer.vb">
+      <DependentUpon>CONFIRMER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIRMER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFORMITE DES COMMANDE COTCO.Designer.vb">
+      <DependentUpon>CONFORMITE DES COMMANDE COTCO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONFORMITE DES COMMANDE COTCO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COTATION.Designer.vb">
+      <DependentUpon>COTATION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COTATION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COTERCOT.Designer.vb">
+      <DependentUpon>COTERCOT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COTERCOT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COTERCOTCO.Designer.vb">
+      <DependentUpon>COTERCOTCO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COTERCOTCO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTUR.Designer.vb">
+      <DependentUpon>FACTUR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FACTUR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTURE.Designer.vb">
+      <DependentUpon>FACTURE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FACTURE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTURES FOURNISSEURS.Designer.vb">
+      <DependentUpon>FACTURES FOURNISSEURS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FACTURES FOURNISSEURS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIVRER.Designer.vb">
+      <DependentUpon>LIVRER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LIVRER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOCAL BUYING HOUSEDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LOCAL BUYING HOUSEDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DEMMARER.Designer.vb">
+      <DependentUpon>DEMMARER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DEMMARER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTION.Designer.vb">
+      <DependentUpon>DIRECTION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTURATION FOURNISSEUR.Designer.vb">
+      <DependentUpon>FACTURATION FOURNISSEUR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FACTURATION FOURNISSEUR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTURATION TEC.Designer.vb">
+      <DependentUpon>FACTURATION TEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FACTURATION TEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOURNISSEUR.Designer.vb">
+      <DependentUpon>FOURNISSEUR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FOURNISSEUR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LISTE CLIENT.Designer.vb">
+      <DependentUpon>LISTE CLIENT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LISTE CLIENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LISTE DES EMPLOYES.Designer.vb">
+      <DependentUpon>LISTE DES EMPLOYES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LISTE DES EMPLOYES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LISTE DES PRODUITS.Designer.vb">
+      <DependentUpon>LISTE DES PRODUITS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LISTE DES PRODUITS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LISTE FOURNISSEURS ACTIF.Designer.vb">
+      <DependentUpon>LISTE FOURNISSEURS ACTIF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LISTE FOURNISSEURS ACTIF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LISTE TYPE PRODUIT.Designer.vb">
+      <DependentUpon>LISTE TYPE PRODUIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LISTE TYPE PRODUIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIVRAISON FOURNISSEUR.Designer.vb">
+      <DependentUpon>LIVRAISON FOURNISSEUR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LIVRAISON FOURNISSEUR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIVRAISON TEC.Designer.vb">
+      <DependentUpon>LIVRAISON TEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LIVRAISON TEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONNEXION.Designer.vb">
+      <DependentUpon>CONNEXION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONNEXION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOCAL BUYING HOUSEDataSet1.vb">
+      <DependentUpon>LOCAL BUYING HOUSEDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MIS A JOUR PERSONNEL.Designer.vb">
+      <DependentUpon>MIS A JOUR PERSONNEL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MIS A JOUR PERSONNEL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MISAJOURCLIENT.Designer.vb">
+      <DependentUpon>MISAJOURCLIENT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MISAJOURCLIENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MISAJOURfournisseur.Designer.vb">
+      <DependentUpon>MISAJOURfournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MISAJOURfournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MISE A JOUR PROFORMA.Designer.vb">
+      <DependentUpon>MISE A JOUR PROFORMA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MISE A JOUR PROFORMA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PERSONNEL.Designer.vb">
+      <DependentUpon>PERSONNEL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PERSONNEL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PO COTCO.Designer.vb">
+      <DependentUpon>PO COTCO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PO COTCO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUIT.Designer.vb">
+      <DependentUpon>PRODUIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PROFORMA UTILISE.Designer.vb">
+      <DependentUpon>PROFORMA UTILISE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PROFORMA UTILISE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PROFORMA.Designer.vb">
+      <DependentUpon>PROFORMA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PROFORMA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PROFORMER.Designer.vb">
+      <DependentUpon>PROFORMER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PROFORMER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTAURER CLIENT.Designer.vb">
+      <DependentUpon>RESTAURER CLIENT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTAURER CLIENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTAURER FOURNISSEUR.Designer.vb">
+      <DependentUpon>RESTAURER FOURNISSEUR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTAURER FOURNISSEUR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTAURER PERSONNEL.Designer.vb">
+      <DependentUpon>RESTAURER PERSONNEL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTAURER PERSONNEL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTAURER PRO FORMA.Designer.vb">
+      <DependentUpon>RESTAURER PRO FORMA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTAURER PRO FORMA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TYPE PRODUIT.Designer.vb">
+      <DependentUpon>TYPE PRODUIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TYPE PRODUIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ACCEUIL.resx">
+      <DependentUpon>ACCEUIL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACHAT.resx">
+      <DependentUpon>ACHAT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARCHIVE CLIENT.resx">
+      <DependentUpon>ARCHIVE CLIENT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARCHIVE PRO FORMA.resx">
+      <DependentUpon>ARCHIVE PRO FORMA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARCHIVES FOURNISSEUR.resx">
+      <DependentUpon>ARCHIVES FOURNISSEUR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARCHIVES PERSONNEL.resx">
+      <DependentUpon>ARCHIVES PERSONNEL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ATTENTE.resx">
+      <DependentUpon>ATTENTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLIENT.resx">
+      <DependentUpon>CLIENT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMMANDE COTCO.resx">
+      <DependentUpon>COMMANDE COTCO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMMANDE TEC.resx">
+      <DependentUpon>COMMANDE TEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMTEC.resx">
+      <DependentUpon>COMTEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMTECE.resx">
+      <DependentUpon>COMTECE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIRMEE.resx">
+      <DependentUpon>CONFIRMEE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIRMER.resx">
+      <DependentUpon>CONFIRMER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFORMITE DES COMMANDE COTCO.resx">
+      <DependentUpon>CONFORMITE DES COMMANDE COTCO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COTATION.resx">
+      <DependentUpon>COTATION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COTERCOT.resx">
+      <DependentUpon>COTERCOT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COTERCOTCO.resx">
+      <DependentUpon>COTERCOTCO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEMMARER.resx">
+      <DependentUpon>DEMMARER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTION.resx">
+      <DependentUpon>DIRECTION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTUR.resx">
+      <DependentUpon>FACTUR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTURATION FOURNISSEUR.resx">
+      <DependentUpon>FACTURATION FOURNISSEUR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTURATION TEC.resx">
+      <DependentUpon>FACTURATION TEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTURE.resx">
+      <DependentUpon>FACTURE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTURES FOURNISSEURS.resx">
+      <DependentUpon>FACTURES FOURNISSEURS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FOURNISSEUR.resx">
+      <DependentUpon>FOURNISSEUR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LISTE CLIENT.resx">
+      <DependentUpon>LISTE CLIENT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LISTE DES EMPLOYES.resx">
+      <DependentUpon>LISTE DES EMPLOYES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LISTE DES PRODUITS.resx">
+      <DependentUpon>LISTE DES PRODUITS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LISTE FOURNISSEURS ACTIF.resx">
+      <DependentUpon>LISTE FOURNISSEURS ACTIF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LISTE TYPE PRODUIT.resx">
+      <DependentUpon>LISTE TYPE PRODUIT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIVRAISON FOURNISSEUR.resx">
+      <DependentUpon>LIVRAISON FOURNISSEUR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIVRAISON TEC.resx">
+      <DependentUpon>LIVRAISON TEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONNEXION.resx">
+      <DependentUpon>CONNEXION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIVRER.resx">
+      <DependentUpon>LIVRER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS A JOUR PERSONNEL.resx">
+      <DependentUpon>MIS A JOUR PERSONNEL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MISAJOURCLIENT.resx">
+      <DependentUpon>MISAJOURCLIENT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MISAJOURfournisseur.resx">
+      <DependentUpon>MISAJOURfournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MISE A JOUR PROFORMA.resx">
+      <DependentUpon>MISE A JOUR PROFORMA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERSONNEL.resx">
+      <DependentUpon>PERSONNEL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PO COTCO.resx">
+      <DependentUpon>PO COTCO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUIT.resx">
+      <DependentUpon>PRODUIT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PROFORMA UTILISE.resx">
+      <DependentUpon>PROFORMA UTILISE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PROFORMA.resx">
+      <DependentUpon>PROFORMA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PROFORMER.resx">
+      <DependentUpon>PROFORMER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report10.rdlc" />
+    <EmbeddedResource Include="Report11.rdlc" />
+    <EmbeddedResource Include="Report12.rdlc" />
+    <EmbeddedResource Include="Report13.rdlc" />
+    <EmbeddedResource Include="Report14.rdlc" />
+    <EmbeddedResource Include="Report15.rdlc" />
+    <EmbeddedResource Include="Report16.rdlc" />
+    <EmbeddedResource Include="Report17.rdlc" />
+    <EmbeddedResource Include="Report18.rdlc" />
+    <EmbeddedResource Include="Report19.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report20.rdlc" />
+    <EmbeddedResource Include="Report21.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <EmbeddedResource Include="Report8.rdlc" />
+    <EmbeddedResource Include="Report9.rdlc" />
+    <EmbeddedResource Include="RESTAURER CLIENT.resx">
+      <DependentUpon>RESTAURER CLIENT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTAURER FOURNISSEUR.resx">
+      <DependentUpon>RESTAURER FOURNISSEUR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTAURER PERSONNEL.resx">
+      <DependentUpon>RESTAURER PERSONNEL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTAURER PRO FORMA.resx">
+      <DependentUpon>RESTAURER PRO FORMA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TYPE PRODUIT.resx">
+      <DependentUpon>TYPE PRODUIT.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="LOCAL BUYING HOUSEDataSet1.xsc">
+      <DependentUpon>LOCAL BUYING HOUSEDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LOCAL BUYING HOUSEDataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LOCAL BUYING HOUSEDataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="LOCAL BUYING HOUSEDataSet1.xss">
+      <DependentUpon>LOCAL BUYING HOUSEDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D_Neutre_Lemon %281280x1024%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fond21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ph-10049.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rocla-oyj-france-preparateur-de-commande-306276.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAM_2193.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAM_2195.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contrat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application-de-commande-online.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contrat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commande.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecycleBin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04-go fish.avi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_031.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connexion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\affect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondObjImmat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_0311.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondObjImmat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_0312.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_0313.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PW1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fond211.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_0314.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demarrage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facturere.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livraison1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livraire.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prod.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\type produit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prode.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modifier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\installee-paquet-mis-a-jour-icone-5126-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image de fond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demarrage1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livraison.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gestion des Fournitures.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PW2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondObjImmat2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produit 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facturer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livrere.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vision.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon18_wrench_allbkg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vide-poubelle-icone-8363-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image Acces Administrataur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image acces Conformité.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image Acces Service Achat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image acces Conformité1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Page d%27acceuil Application.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

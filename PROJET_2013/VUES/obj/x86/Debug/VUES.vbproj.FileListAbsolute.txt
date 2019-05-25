@@ -1,0 +1,163 @@
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.CONNEXION.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PRINCIPAL.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.Resources.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.vbproj.GenerateResource.Cache
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.exe
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.pdb
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.xml
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.exe
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.xml
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.pdb
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAcceuil.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCcompte.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.demarrage.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCclient.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCEmploye.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFournisseur.resources
+C:\Users\BELONA MARY SPARKS\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAutres.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.exe
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.xml
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.pdb
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.exe
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.pdb
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.xml
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.CONNEXION.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.demarrage.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PRINCIPAL.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.Resources.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAcceuil.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAutres.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCclient.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCcompte.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCEmploye.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFournisseur.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.exe.config
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.dll
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.pdb
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.xml
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\MODELS.dll
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\MODELS.pdb
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\MODELS.xml
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCommande.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCotation.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCPo.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCProforma.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCProjet.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PROFORMER.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.LIVRAISONTEC.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTUREF.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURETEC.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCorbeille.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFacturef.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFacturetec.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCLivraisontec.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UClivrerf.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.exe.config
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.exe
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.xml
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.pdb
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.exe
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.pdb
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\VUES.xml
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.dll
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\MODELS.dll
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.pdb
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.xml
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\MODELS.pdb
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\bin\Debug\MODELS.xml
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.CONNEXION.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.demarrage.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTUREF.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURETEC.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.LIVRAISONTEC.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PRINCIPAL.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PROFORMER.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.Resources.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAcceuil.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAutres.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCclient.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCommande.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCcompte.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCorbeille.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCotation.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCEmploye.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFacturef.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFacturetec.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFournisseur.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCLivraisontec.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UClivrerf.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCPo.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCProforma.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCProjet.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCITEMS.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\RdlCompile.cache
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\RdlCompile.compiled
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.liste.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.presence.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.COTATION.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACCOTCO.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURECLI.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.LIVTEC.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PROFAC.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.TECCOMMANDE.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.COTCO2.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURE2.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\VUES.exe.config
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.exe
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.xml
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.pdb
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\VUES.exe
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\VUES.pdb
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\VUES.xml
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.dll
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\MODELS.dll
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.pdb
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\CONTROLLEUR.xml
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\MODELS.pdb
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\bin\Debug\MODELS.xml
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.CONNEXION.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.COTATION.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.COTCO2.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.demarrage.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACCOTCO.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURE2.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTUREF.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURECLI.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.FACTURETEC.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.liste.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.LIVRAISONTEC.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.LIVTEC.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PRINCIPAL.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PROFAC.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.PROFORMER.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.presence.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.TECCOMMANDE.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.Resources.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAcceuil.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCAutres.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCclient.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCommande.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCcompte.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCorbeille.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCCotation.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCEmploye.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFacturef.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFacturetec.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCFournisseur.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCITEMS.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCLivraisontec.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UClivrerf.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCPo.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCProforma.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\VUES.UCProjet.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\RdlCompile.cache
+C:\Users\BELONA\Desktop\BUYINGHOUSE\VUES\obj\x86\Debug\RdlCompile.compiled

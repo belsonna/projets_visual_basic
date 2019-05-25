@@ -1,0 +1,33 @@
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.dll.config
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.dll
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.pdb
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.xml
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.Resources.resources
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.dll
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.xml
+C:\Users\BELONA\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.pdb
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.dll.config
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.dll
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.pdb
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\bin\Debug\MODELS.xml
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.Resources.resources
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.dll
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.xml
+C:\Users\BELONA\Documents\Documents\Visual Studio 2010\Projects\BUYINGHOUSE\MODELS\obj\Debug\MODELS.pdb
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\bin\Debug\MODELS.dll.config
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\bin\Debug\MODELS.dll
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\bin\Debug\MODELS.pdb
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\bin\Debug\MODELS.xml
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\MODELS.Resources.resources
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\MODELS.dll
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\MODELS.xml
+C:\Users\BELONA\Desktop\BUYINGHOUSE\MODELS\obj\Debug\MODELS.pdb

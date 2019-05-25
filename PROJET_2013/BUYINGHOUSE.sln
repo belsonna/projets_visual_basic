@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VUES", "VUES\VUES.vbproj", "{026D0A37-8FF4-4638-BBFD-A7780EB20D40}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CONTROLLEUR", "CONTROLLEUR\CONTROLLEUR.vbproj", "{E32B7340-3000-4D9D-AA41-272FE614F5F0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MODELS", "MODELS\MODELS.vbproj", "{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "lipro", "lipro\lipro.vdproj", "{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Debug|x86.ActiveCfg = Debug|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Debug|x86.Build.0 = Debug|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Release|Any CPU.ActiveCfg = Release|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Release|Mixed Platforms.Build.0 = Release|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Release|x86.ActiveCfg = Release|x86
+		{026D0A37-8FF4-4638-BBFD-A7780EB20D40}.Release|x86.Build.0 = Release|x86
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E32B7340-3000-4D9D-AA41-272FE614F5F0}.Release|x86.ActiveCfg = Release|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C2C6EC54-9676-494E-8BC6-CC4BA1CBDDF3}.Release|x86.ActiveCfg = Release|Any CPU
+		{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}.Debug|Any CPU.ActiveCfg = Debug
+		{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}.Debug|x86.ActiveCfg = Debug
+		{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}.Release|Any CPU.ActiveCfg = Release
+		{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}.Release|Mixed Platforms.ActiveCfg = Release
+		{2BC44401-1BD7-4F3A-9600-BDBCE4D759C1}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,444 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VUES
+</name>
+</assembly>
+<members>
+<member name="T:VUES.BUYINGHOUSEDataSet.CLIENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COMMANDEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COMPTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COTATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.EMPLOYEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FACTURERFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FACTURERTECDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FOURNISSEURDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.LIVRERFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.LIVRERTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PRODUITDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROFORMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROFORMERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROJETDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.TYPEPRODUITDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.blivtecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.coterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.factecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.teccommandeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.commandeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.coteeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.factureeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.livreeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.CLIENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COMMANDERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COMPTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COTATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.EMPLOYERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FACTURERFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FACTURERTECRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FOURNISSEURRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.LIVRERFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.LIVRERTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PRODUITRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROFORMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROFORMERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROJETRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.TYPEPRODUITRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.blivtecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.coterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.factecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.teccommandeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.commandeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.coteeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.factureeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.livreeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.CLIENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COMMANDERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COMPTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.COTATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.EMPLOYERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FACTURERFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FACTURERTECRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.FOURNISSEURRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.LIVRERFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.LIVRERTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PRODUITRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROFORMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROFORMERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.PROJETRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.TYPEPRODUITRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.blivtecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.coterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.factecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.teccommandeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.commandeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.coteeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.factureeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet.livreeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.CLIENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.COMMANDETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.COMPTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.COTATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.EMPLOYETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.FACTURERFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.FACTURERTECTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.FOURNISSEURTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.LIVRERFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.LIVRERTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.POTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.PRODUITTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.PROFORMATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.PROFORMERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.PROJETTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.TYPEPRODUITTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.blivtecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.coterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.factecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.teccommandeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.commandeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.coteeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.factureeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.livreeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(VUES.BUYINGHOUSEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(VUES.BUYINGHOUSEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(VUES.BUYINGHOUSEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.UpdateAll(VUES.BUYINGHOUSEDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:VUES.BUYINGHOUSEDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:VUES.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:VUES.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:VUES.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

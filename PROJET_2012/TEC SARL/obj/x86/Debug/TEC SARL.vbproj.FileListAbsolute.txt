@@ -1,0 +1,215 @@
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\bin\Debug\TEC SARL.exe.config
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\bin\Debug\TEC SARL.exe
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\bin\Debug\TEC SARL.pdb
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\bin\Debug\TEC SARL.xml
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.ACCEUIL.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.DEMMARER.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.Resources.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC SARL.exe
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC SARL.xml
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC SARL.pdb
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.PERSONNEL.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.CLIENT.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.FOURNISSEUR.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.PRODUIT.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.TYPE_PRODUIT.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMA.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMER.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.COTATION.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_TEC.resources
+C:\Users\SAMSUNG\AppData\Local\Temporary Projects\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_COTCO.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe.config
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.xml
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\bin\Debug\TEC SARL.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\bin\Debug\TEC SARL.xml
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ACCEUIL.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CLIENT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_COTCO.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_TEC.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTATION.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.DEMMARER.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FOURNISSEUR.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRAISON_FOURNISSEUR.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.Resources.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PERSONNEL.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PRODUIT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMA.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMER.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.TYPE_PRODUIT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRAISON_TEC.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURATION_TEC.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONNEXION.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFIRMER.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MIS_A_JOUR_PERSONNEL.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISAJOURCLIENT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURATION_FOURNISSEUR.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISAJOURfournisseur.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISE_A_JOUR_PROFORMA.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ACHAT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFORMITE_DES_COMMANDE_COTCO.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.DIRECTION.resources
+E:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe.config
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.exe
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.xml
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.pdb
+E:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe
+E:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.pdb
+E:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.xml
+E:\TEC SARL\TEC SARL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ACCEUIL.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ACHAT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CLIENT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_COTCO.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_TEC.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFIRMER.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFORMITE_DES_COMMANDE_COTCO.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTATION.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.DEMMARER.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.DIRECTION.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURATION_FOURNISSEUR.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURATION_TEC.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FOURNISSEUR.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRAISON_FOURNISSEUR.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRAISON_TEC.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONNEXION.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MIS_A_JOUR_PERSONNEL.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISAJOURCLIENT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISAJOURfournisseur.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISE_A_JOUR_PROFORMA.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.Resources.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PERSONNEL.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PRODUIT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMA.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMER.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RECHERCHE.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.TYPE_PRODUIT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TEC SARL_2\TEC SARL\bin\Debug\TEC SARL.exe.config
+E:\TEC SARL_2\TEC SARL\obj\x86\Debug\TEC SARL.exe
+E:\TEC SARL_2\TEC SARL\obj\x86\Debug\TEC SARL.xml
+E:\TEC SARL_2\TEC SARL\obj\x86\Debug\TEC SARL.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_PERSONNEL.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_CLIENT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_FOURNISSEUR.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_PRO_FORMA.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\RdlCompile.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_CLIENT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_FOURNISSEURS_ACTIF.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_DES_EMPLOYES.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_DES_PRODUITS.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_TYPE_PRODUIT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.comtec.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.facturtec.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_CLIENT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_DES_EMPLOYES.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_DES_PRODUITS.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_FOURNISSEURS_ACTIF.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_TYPE_PRODUIT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PO_OK.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_CLIENT.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_FOURNISSEUR.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_PERSONNEL.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_PRO_FORMA.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.youpi.resources
+E:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TEC SARL\TEC SARL\obj\x86\Debug\RdlCompile.cache
+E:\TEC SARL\TEC SARL\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFIRMEE.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVE_CLIENT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVES_FOURNISSEUR.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVES_PERSONNEL.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ATTENTE.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PO_COTCO.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVE_PRO_FORMA.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMA_UTILISE.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURES_FOURNISSEURS.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTERCOTCO.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTERCOT.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMTEC.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMTECE.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTUR.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURE.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRER.resources
+D:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe.config
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.exe
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.xml
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.pdb
+D:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe
+D:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.pdb
+D:\TEC SARL\TEC SARL\bin\Debug\TEC SARL.xml
+D:\TEC SARL\TEC SARL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ACCEUIL.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ACHAT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVE_CLIENT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVE_PRO_FORMA.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVES_FOURNISSEUR.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ARCHIVES_PERSONNEL.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.ATTENTE.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CLIENT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_COTCO.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMMANDE_TEC.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMTEC.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COMTECE.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFIRMEE.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFIRMER.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONFORMITE_DES_COMMANDE_COTCO.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTATION.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTERCOT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.COTERCOTCO.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.DEMMARER.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.DIRECTION.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTUR.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURATION_FOURNISSEUR.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURATION_TEC.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURE.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FACTURES_FOURNISSEURS.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.FOURNISSEUR.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_CLIENT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_DES_EMPLOYES.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_DES_PRODUITS.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_FOURNISSEURS_ACTIF.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LISTE_TYPE_PRODUIT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRAISON_FOURNISSEUR.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRAISON_TEC.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.CONNEXION.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.LIVRER.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MIS_A_JOUR_PERSONNEL.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISAJOURCLIENT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISAJOURfournisseur.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.MISE_A_JOUR_PROFORMA.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.Resources.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PERSONNEL.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PO_COTCO.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PRODUIT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMA_UTILISE.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMA.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.PROFORMER.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_CLIENT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_FOURNISSEUR.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_PERSONNEL.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.RESTAURER_PRO_FORMA.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\TEC_SARL.TYPE_PRODUIT.resources
+D:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\TEC SARL\TEC SARL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TEC SARL\TEC SARL\obj\x86\Debug\RdlCompile.cache
+D:\TEC SARL\TEC SARL\obj\x86\Debug\RdlCompile.compiled
+D:\papa cle blanche\documents belona\TEC SARL\TEC SARL\bin\Debug\TEC SARL.exe.config
+D:\papa cle blanche\documents belona\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.exe
+D:\papa cle blanche\documents belona\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.xml
+D:\papa cle blanche\documents belona\TEC SARL\TEC SARL\obj\x86\Debug\TEC SARL.pdb

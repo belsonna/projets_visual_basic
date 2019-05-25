@@ -1,0 +1,460 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TECSARL
+</name>
+</assembly>
+<members>
+<member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.CLIENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COMMANDECOTCODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COMMANDETECDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.CONFIRMERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COTATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERTECDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FOURNISSEURDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.LIVRERFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.LIVRERTECDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PERSONNELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PRODUITDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PROFORMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PROFORMERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.TYPEPRODUITDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.coteeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.confirmeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.attenteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.procedurDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.commandeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.StoredProcedure1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTUREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.livrerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.livreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.CLIENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COMMANDECOTCORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COMMANDETECRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.CONFIRMERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COTATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERTECRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FOURNISSEURRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.LIVRERFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.LIVRERTECRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PERSONNELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PRODUITRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PROFORMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PROFORMERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.TYPEPRODUITRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.coteeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.confirmeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.attenteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.procedurRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.commandeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.StoredProcedure1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.livrerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.livreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.CLIENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COMMANDECOTCORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COMMANDETECRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.CONFIRMERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.COTATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERTECRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FOURNISSEURRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.LIVRERFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.LIVRERTECRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PERSONNELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PRODUITRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PROFORMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.PROFORMERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.TYPEPRODUITRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.coteeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.confirmeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.attenteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.procedurRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.commandeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.StoredProcedure1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.FACTURERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.livrerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1.livreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.CLIENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.COMMANDECOTCOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.COMMANDETECTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.CONFIRMERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.COTATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.FACTURERFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.FACTURERTECTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.FOURNISSEURTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.LIVRERFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.LIVRERTECTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.PERSONNELTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.PRODUITTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.PROFORMATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.PROFORMERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TYPEPRODUITTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.coteeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.confirmeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.attenteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.procedurTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.commandeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.StoredProcedure1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.FACTURETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.FACTURERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.livrerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.livreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(TEC_SARL.LOCAL_BUYING_HOUSEDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(TEC_SARL.LOCAL_BUYING_HOUSEDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(TEC_SARL.LOCAL_BUYING_HOUSEDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.UpdateAll(TEC_SARL.LOCAL_BUYING_HOUSEDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TEC_SARL.LOCAL_BUYING_HOUSEDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:TEC_SARL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:TEC_SARL.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:TEC_SARL.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
